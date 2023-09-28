@@ -129,7 +129,11 @@
   <ItemGroup>
     <ClCompile Include="L4.c" />
     <ClCompile Include="L4_2.c" />
+    <ClCompile Include="L4_3.c" />
     <ClCompile Include="main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
