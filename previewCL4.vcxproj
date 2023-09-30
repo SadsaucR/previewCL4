@@ -128,8 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="L4.c" />
+    <ClCompile Include="L4_10.c" />
     <ClCompile Include="L4_2.c" />
     <ClCompile Include="L4_3.c" />
+    <ClCompile Include="L4_4.c" />
+    <ClCompile Include="L4_5.c" />
+    <ClCompile Include="L4_6.c" />
+    <ClCompile Include="L4_7.c" />
+    <ClCompile Include="L4_8.c" />
+    <ClCompile Include="L4_9.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>

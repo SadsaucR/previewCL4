@@ -27,6 +27,27 @@
     <ClCompile Include="L4_3.c">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="L4_4.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="L4_5.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="L4_6.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="L4_7.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="L4_8.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="L4_9.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="L4_10.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md">
