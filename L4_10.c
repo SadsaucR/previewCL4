@@ -3,6 +3,7 @@
 #include <stdlib.h>
 void L4_10()
 {
+	srand((unsigned)time(NULL) + getpid());
 	int r[6] = { 0 }; /*¤»­±»ë½d¨Ò*/
 	int i, tmp,pos;
 	r[0] = 6;

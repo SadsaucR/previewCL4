@@ -3,6 +3,7 @@
 #include <stdlib.h>
 void L4_9()
 {
+	srand((unsigned)time(NULL) + getpid());
 	int r[6] = { 0 }; /*¤»­±»ë½d¨Ò*/
 	int i,j;
 	for (i = 0;i < 6;i++)
